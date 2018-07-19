@@ -1,10 +1,11 @@
 # IT-it-processwire
-Italian (IT-it) language pack for ProcessWire 3.0+
-by: marco@studio-igs.com
-
+Italian (IT-it) language pack for <a href="http://processwire.com/">ProcessWire</a> 3.0+
+<br>
+<br>
 This it's just the Italian vertion of ProcessWire 3.0+
 I have also translated some moduels that usually people use.
-
+<br>
+<br>
 Inside you will find the translated files for:<br>
 <ul>
   <li>wire--core--*</li>
