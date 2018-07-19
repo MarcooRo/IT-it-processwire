@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Descivere"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "coppia e incolla i files qui"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Cancella"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Coppia i File"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Coppia i File"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Nessuna estensione di file \u00e8 definita per questo campo."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Convalida del file non riuscita"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Aggiunto il file:"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "File rifiutato %s perch\u00e9 \u00e8 gi\u00e0 presente nel file system e appartiene a un campo diverso."
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "File cancellato:"
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "File rinominato \"%1$s\" in \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Fallito"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath \u00e8 vuoto o non esiste"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath non \u00e8 scrivibile"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "\u00c8 stato raggiunto il limite massimo di caricamento del file"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Decomprimere i file ZIP?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Se selezionato, gli archivi ZIP verranno decompressi e tutti i file validi aggiunti come caricamenti (se supportati dall'ambiente di hosting). I file massimi devono essere impostati su 0 (nessun limite massimo) affinch\u00e9 i caricamenti ZIP funzionino."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Sovrascrivi i file esistenti?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Se selezionato, un file caricato con lo stesso nome di un file esistente sostituir\u00e0 il file esistente (la descrizione e i tag rimarranno). Se non selezionato, i nomi file caricati saranno rinominati come unici."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Si noti che quando questa opzione \u00e8 abilitata, i file caricati con AJAX vengono salvati con la pagina immediatamente al momento del caricamento, piuttosto che quando si fa clic su \"salva\". Di conseguenza, potresti voler lasciare questa opzione deselezionata a meno che tu non ne abbia una specifica necessit\u00e0."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Numero di righe per il campo descrizione?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Immettere il numero di righe disponibili per il campo di descrizione del file o immettere 0 per non avere un campo di descrizione."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Disabilita le descrizioni multilingue?"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Per impostazione predefinita, le descrizioni sono multi-lingua quando \u00e8 installato il supporto per le lingue. Se si desidera disabilitare le descrizioni multilingue, selezionare questa casella."
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Uno o pi\u00f9 file sono stati caricati (ordinabili)"
+        }
+    }
+}

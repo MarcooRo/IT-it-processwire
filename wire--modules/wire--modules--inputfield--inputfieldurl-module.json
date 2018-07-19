@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
+    "textdomain": "wire--modules--inputfield--inputfieldurl-module",
+    "translations": {
+        "34b4cb36f08c1d976a2e58d37d81ce49": {
+            "text": "Avvia URL locali con \"\/\" e lascia la parte \"%s\"."
+        },
+        "31d3da8cb2ee3f26243a6157ce0e5634": {
+            "text": "Errore trovato - si prega di verificare che sia un URL valido"
+        },
+        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
+            "text": "Si noti che \"http:\/\/\" \u00e8 stato aggiunto"
+        },
+        "1a30197ddff7dc9d65d91f285125cdc2": {
+            "text": "URL formato invalido"
+        }
+    }
+}

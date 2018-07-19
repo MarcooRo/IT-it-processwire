@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTabs.module",
+    "textdomain": "wire--modules--languagesupport--languagetabs-module",
+    "translations": {
+        "4ee6b922de4a3b1d79036b200520ee37": {
+            "text": "Espandi le schede della lingua"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Comprimi\/Converti nuovamente in schede"
+        },
+        "f69430a321cf6f1a6f0ab31192d94fd2": {
+            "text": "clicca due volte per cambiare tutte le schede"
+        },
+        "72f18bd929af0ac260805811117b85e9": {
+            "text": "Campo da utilizzare per le etichette delle schede"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Cache di pagine scadute per l'intero sito"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "File cache cancellato: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "File cache cancellato:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "File cache cancellato per %d pagina(e)"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Cancellato %d cache files per %d pagine"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Pulisci la Page Render Disk Cache?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Attualmente ci sono %d pagine memorizzate nella cache in %s"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Render di pagina"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Aggiunge un metodo di rendering alla pagina e memorizza nella cache l'output della pagina."
+        }
+    }
+}

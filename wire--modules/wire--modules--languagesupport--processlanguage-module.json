@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Importa CSV"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Ricerca Live"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Testo da cercare per"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Clicca qui per costruire l'indice delle frasi di ricerca"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Cerca tutti i file traducibili per testo \/ frase specifici."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Fai clic su trova corrispondenze per modificare la traduzione o aggiungi file (se non gi\u00e0 presente)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "File di traduzione CSV da importare dopo il salvataggio"
+        },
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d abbandonato"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d vuoto"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Trova i file da tradurre"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Non riconosciuto testo dominio per file: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d traduzioni totali, %d cambiamenti totali"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Salvato %d modifiche per il file: %s"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Lingue"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Gestisci le lingue di sistema"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Edita"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d frase"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d frasi"
+        }
+    }
+}

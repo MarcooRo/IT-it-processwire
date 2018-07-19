@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Colonne di Checkboxes"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Se si desidera che le caselle di controllo vengano visualizzate in colonne (anzich\u00e9 impilate), immettere il numero di colonne che si desidera utilizzare (fino a 10). Per visualizzare le caselle affiancate (in linea), immettere 1."
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Multipli checkbox"
+        }
+    }
+}

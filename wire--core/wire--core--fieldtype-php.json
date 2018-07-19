@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Se selezionato, i dati per questo campo verranno caricati con ogni istanza della pagina, indipendentemente dal fatto che sia utilizzata al momento. Se deselezionata, i dati verranno caricati su richiesta e solo quando il campo \u00e8 accessibile in modo specifico."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globale"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Se selezionato, TUTTE le pagine saranno obbligate ad avere questo campo. Sar\u00e0 aggiunto automaticamente a qualsiasi fieldgroup \/ template che non lo possiede gi\u00e0. Ci\u00f2 non significa che sia richiesto un valore nel campo, ma solo che il campo modificabile esister\u00e0 in tutte le pagine."
+        }
+    }
+}

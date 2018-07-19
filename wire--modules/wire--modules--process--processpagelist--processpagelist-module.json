@@ -1,0 +1,75 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Spazzatura"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Cambia"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancella"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleziona"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deseleziona"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Di pi\u00f9"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Fare clic e trascinare per spostare"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Errore di rete, riprova pi\u00f9 tardi"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Errore sconosciuto, riprova pi\u00f9 tardi"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostra tutto"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d pagine)"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nome del campo della pagina da visualizzare"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Ogni pagina in una PageList \u00e8 identificata da un'etichetta, in genere un titolo o un campo di titolo. Puoi specificare quale campo deve usare qui. Per specificare pi\u00f9 campi, separare ciascun nome di campo con uno spazio o utilizzare la propria stringa di formato con i nomi dei campi circondati da {parentesi}. Se il campo si risolve in un oggetto (come un'altra pagina), specifica la propriet\u00e0 con un punto, ad esempio {anotherpage.title}. Si noti che se il formato specificato si risolve in un valore vuoto, ProcessWire utilizzer\u00e0 il campo \"nome\" della pagina."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opzionalmente puoi sovrascrivere questa impostazione in base al modello in ogni modello di impostazioni \"avanzate\"."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Il valore predefinito \u00e8 %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Se lasciato al valore predefinito, questa impostazione pu\u00f2 anche essere specificata nell'array $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Numero di pagine da visualizzare prima dell'impaginazione"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Velocit\u00e0 di animazione (in ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Questa \u00e8 la velocit\u00e0 con cui ogni ramo nell'albero della pagina si anima su o gi\u00f9. I numeri pi\u00f9 bassi sono pi\u00f9 veloci ma meno visibili. Per nessuna animazione specificare 0."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Aggiungi nuovo"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Mostra le azioni della pagina al passaggio del mouse?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Per impostazione predefinita, le azioni per una pagina vengono visualizzate dopo un clic (almeno nel tema di amministrazione predefinito). Per farli apparire al passaggio del mouse, seleziona questa casella."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Per ulteriori opzioni, vedi l'impostazione $config->pageList in \/wire\/config.php. Puoi copiare quelle impostazioni in \/site\/config.php e sovrascriverle."
+        }
+    }
+}

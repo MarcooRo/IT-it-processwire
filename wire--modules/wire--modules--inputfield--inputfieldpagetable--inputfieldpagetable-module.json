@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[vuoto]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Si prega di configurare questo campo con una selezione del template prima di utilizzarlo."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Inserisci una o pi\u00f9 colonne nelle tue impostazioni del campo prima di utilizzare questo campo."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Sono stati trovati figli che possono essere aggiunti a questo tabella. Seleziona la casella accanto a quella che desideri aggiungere."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Seleziona tutto"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Aggiunte %d pagine esistenti alla tabella"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Campi tabella da visualizzare in admin"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Immettere i nomi dei campi (1 per riga) che si desidera visualizzare come colonne nella tabella. Per specificare una larghezza di colonna per il campo, specificare \"nome_campo = 30\" dove \"30\" \u00e8 la larghezza (in percentuale) della colonna. Quando si specificano le larghezze, rendere il totale di tutte le colonne aggiungere fino a 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "\u00c8 possibile specificare qualsiasi campo nativo o personalizzato. Puoi anche usare sotto campi (field.subfield) con campi che contengono propriet\u00e0 multiple, come i riferimenti alle pagine."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "I campi personalizzati assegnati ai modelli selezionati includono quanto segue:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Per visualizzare un elenco di possibili campi personalizzati qui, seleziona un modello nella scheda Dettagli, Salva e torna qui."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Formato del nome della pagina automatica"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Quando vengono popolate, le pagine verranno create automaticamente utilizzando questo formato nome ogni volta che un utente fa clic sul pulsante \"Aggiungi nuovo\". Se lasciato vuoto, all'utente verr\u00e0 chiesto di inserire un nome per la pagina prima che venga creata."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Se il formato del nome contiene caratteri non alfanumerici, \u00e8 considerato un formato [Data PHP] (http:\/\/www.php.net\/manual\/en\/function.date.php). Se contiene solo caratteri alfanumerici, verr\u00e0 utilizzato direttamente, con un numero aggiunto alla fine (se necessario) per garantire l'univocit\u00e0."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Esempio: Ymd:His \u00e8 un formato di buon nome per i nomi delle pagine basate su data \/ ora."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportamento della finestra di modifica modale"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Chiudi automaticamente al salvataggio (predefinito)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Tieni la finestra aperta, chiudi manualmente"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Tabella delle pagine"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Campo di immissione per accompagnare FieldtypePageTable"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Creato"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificato"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Pubblicato"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificato da"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Creato da"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Genitore"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Figli"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Stato"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Aggiungi nuovo"
+        }
+    }
+}

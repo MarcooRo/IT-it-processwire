@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/PagePaths.module",
+    "textdomain": "wire--modules--pagepaths-module",
+    "translations": {
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Disinstalla il modulo Core> PagePaths (non \u00e8 compatibile con LanguageSupportPageNames)"
+        },
+        "d6fee4e5741568290c0f4c4edc81f70f": {
+            "text": "Aggiornamento del percorso %d"
+        },
+        "b198072961bf47ed9c790c1006f98372": {
+            "text": "Aggiornamenti dei percorsi %d"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Attivo?"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Una pagina di pari livello (id=%1$d) sta gi\u00e0 utilizzando il nome \"%2$s\" per la lingua:%3$s"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefisso del numero di pagina per l'impaginazione"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Il numero di pagina viene aggiunto a questa parola in URL impaginati per questa lingua. Se omesso, verr\u00e0 utilizzato \"%s\"."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "L'URL della homepage della lingua predefinita \u00e8 uguale all'URL di root?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Scegli ** S\u00ec** se desideri che la home page della tua lingua predefinita sia pubblicata dall'URL di root **\/** (consigliato). Scegli ** No** se desideri che l'URL di root esegua un reindirizzamento su **\/nome\/** (dove \/ nome \/ \u00e8 il nome della lingua predefinita della tua home page)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Questa impostazione influisce solo sul comportamento della homepage. Se selezioni No, devi anche assicurarti che la tua homepage abbia un nome definito per la lingua predefinita."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "S\u00ec - L'URL di root serve la homepage della lingua predefinita (consigliato)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "No: l'URL di root esegue un reindirizzamento a: \/nome\/"
+        }
+    }
+}

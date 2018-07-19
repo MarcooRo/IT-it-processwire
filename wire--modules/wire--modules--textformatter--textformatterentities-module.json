@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "L'entit\u00e0 codifica e commerciali, virgolette (singole e doppie) e pi\u00f9 grandi di \/ meno di segni usando htmlspecialchars (str, ENT_QUOTES). Si consiglia di utilizzarlo su tutti i campi testo \/ area di testo ad eccezione di quelli che utilizzano un editor di testo RTF o un linguaggio di markup come Markdown."
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Qualsiasi combinazione di lettere (a-z), numeri (0-9), trattini o caratteri di sottolineatura (senza spazi)."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "La configurazione dei caratteri sostituiti \u00e8 disabilitata perch\u00e9 $config->pageNameCharset \u00e8 UTF8."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Sostituzioni di caratteri"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Immettere le sostituzioni che si verificano quando un utente inserisce dei caratteri nel campo del nome di una pagina. Immettere una sostituzione per ogni riga nel formato: chiave=valore. Significa che: su ogni nuova riga, inserire il carattere(i) che si desidera sostituire seguito da un segno di uguale \"=\" e il carattere(i) ascii che si desidera sostituire con."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Il valore di sostituzione di ciascuno deve essere uno o pi\u00f9 tra: a-z, 0-9, trattino, trattino basso o punto."
+        }
+    }
+}

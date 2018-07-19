@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Prima di utilizzare la modifica front-end, rivedere la guida di modifica front-end."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Impostazioni dell'editor inlinea"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Opzione A: campi modificabili front-edit"
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Questi campi basati su testo diventeranno modificabili sul front-end, direttamente nella pagina, semplicemente spuntando le caselle sottostanti."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "** Fai attenzione con questa opzione: ** Se stai emettendo il valore di un campo in pi\u00f9 di una posizione su una pagina, dovresti invece usare [Opzione B, C o D] (https:\/\/processwire.com\/api \/ modules \/ front-end-editing \/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(non raccomandato)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Opzione A: ambito dell'editor"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Quando vengono visualizzati i campi sopra riportati, dove dovrebbero essere modificabili?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Campi modificabili solo se provengono dalla pagina che viene renderizzata (raccomandata)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Campi modificabili indipendentemente dalla pagina"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Salva\/Annulla pulsanti"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Pulsanti location"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatico"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Top sinistra"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Top destra"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Fondo sinistra"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Fondo denstra"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Tipo di pulsanti"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Auto (icone e testo per desktop, icone per dispositivi touch)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Icone e testo"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Solo testo"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Solo icone"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Di pi\u00f9"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Esistono diversi modi per abilitare la modifica front-end per questo campo. Indipendentemente dall'opzione scelta, la modifica del front-end verr\u00e0 visualizzata solo quando l'utente dispone delle autorizzazioni appropriate per la pagina e il campo."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Le autorizzazioni richieste sono modifica della pagina e modifica della pagina."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Quando un campo \u00e8 modificabile, al passaggio del mouse mostra un puntatore del mouse contestuale anzich\u00e9 un puntatore regolare. Per modificare il campo sul front-end, \u00e8 necessario ** fare doppio clic su di esso."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Questa opzione non \u00e8 supportata per questo campo."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Opzione A: modifica automatica"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Quando il valore formattato del campo viene recuperato da una $page, sar\u00e0 modificabile senza che tu debba scrivere alcun codice\/markup per esso. Questo presuppone che l'utente abbia il permesso di modificarlo."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configura"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Questa opzione \u00e8 attualmente ABILITATA per questo campo."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Opzione B: chiamata metodo API"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Usa $page->edit (\"%s\"); piuttosto che $page->%s; quando vuoi emettere il valore."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "\u00c8 supportata una delle seguenti opzioni di sintassi (scegline una). Il \"1001\" pu\u00f2 essere qualsiasi ID o percorso di pagina e \"...\" pu\u00f2 essere qualsiasi codice o markup, in genere in cui viene generato il valore del campo."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Opzione C: aggiungi tag di modifica HTML per creare un'area modificabile"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Opzione D: aggiungi gli attributi di modifica HTML al tag di markup esistente per creare un'area modificabile"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Il tag div mostrato di seguito potrebbe essere qualsiasi tag HTML esistente che avvolge la tua regione modificabile."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Si noti che quando si usano gli attributi di modifica, l'editor modale viene sempre utilizzato. Tutte le altre opzioni utilizzeranno l'editor in linea quando supportato."
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Per avere valori predefiniti pre-selezionati, inserisci i valori delle opzioni sotto. (uno per riga)"
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Per avere un valore predefinito preselezionato, immettere il valore dell'opzione di seguito."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valore di default"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Per la selezione della pagina predefinita, il valore sarebbe il numero ID della pagina."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANTE: il valore predefinito non viene utilizzato a meno che non sia richiesto il campo (vedere la casella di controllo \"richiesta\" in questa schermata)."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Opzioni"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Inserisci le opzioni che possono essere selezionate, una per riga."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Per precedere il tuo elenco con un'opzione vuota, inserisci solo il segno di uguale \"=\" come prima opzione."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Per rendere selezionata un'opzione, precedila con un segno pi\u00f9. Esempio: + La mia opzione"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Per mantenere un valore e un'etichetta separati, separali con un segno di uguale. Esempio: value = My Option"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Per creare un gruppo opt (gruppo opzioni) rientra le opzioni nel gruppo con 3 o pi\u00f9 spazi."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleziona"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Selezione di un singolo valore da un pulldown selezionato"
+        }
+    }
+}

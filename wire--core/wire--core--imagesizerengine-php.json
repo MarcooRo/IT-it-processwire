@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Priorit\u00e0 del systema"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Questo determina l'ordine in cui questo systema viene provato in relazione ad altri moduli ImageSizerEngine."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Pi\u00f9 basso \u00e8 il numero, maggiore \u00e8 la tua preferenza."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Se sono installati altri moduli ImageSizerEngine, accertarsi che nessuno abbia la stessa priorit\u00e0."
+        },
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Affilatura"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuna"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "Medio"
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Forte"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Qualit\u00e0"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "Impostazione della qualit\u00e0 predefinita da 1 a 100, dove 1 \u00e8 la qualit\u00e0 pi\u00f9 bassa e 100 \u00e8 la pi\u00f9 alta."
+        }
+    }
+}

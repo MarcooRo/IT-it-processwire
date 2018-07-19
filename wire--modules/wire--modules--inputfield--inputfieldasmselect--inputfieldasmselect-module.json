@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Collega le pagine selezionate all'editor di pagine?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Se abilitato, le etichette selezionate si collegheranno per modificare la pagina selezionata."
+        },
+        "16de616a3ba1c1801d425dacdd28aff6": {
+            "text": "S\u00ec (nella finestra modale)"
+        },
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Selezione multipla, miglioramento progressivo per selezionare multipli"
+        }
+    }
+}

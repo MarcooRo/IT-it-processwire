@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Coppia"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Coppia e incolla"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Impossibile caricare la pagina"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(coppia)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(coppia %d)"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Questo realizzer\u00e0 %s coppie"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Titolo della nuova pagina"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Rendi non pubblicata la nuova pagina?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Se selezionato, alla pagina clonata verr\u00e0 assegnato uno stato non pubblicato in modo che non possa ancora essere visualizzato sul front-end del tuo sito."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Copia anche le pagine figlie?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Se selezionato, tutte le pagine figlie, nipoti, ecc., Saranno anche clonati con questa pagina."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Attenzione: se c'\u00e8 una struttura molto grande di pagine al di sotto di questa, potrebbe essere che richiede tempo o impossibile da completare."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Impossibile clonare la pagina %s"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Pagina clonata \"%1$s\" di \"%2$s\""
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Clonato a: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Non \u00e8 possibile clonare la pagina"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Clona Pagina"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Fornisce la capacit\u00e0 di clonare\/copiare\/duplicare le pagine nell'amministratore. Aggiunge un'opzione \"copia\" a tutte le pagine applicabili in PageList."
+        }
+    }
+}

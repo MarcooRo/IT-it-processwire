@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Quali tipi di pagine possono visualizzare questo ruolo?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Quali tipi di pagine possono modificare questo ruolo?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "A quali tipi di pagine questo ruolo pu\u00f2 aggiungere bambini?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Quali tipi di pagine possono creare questo ruolo?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Se si desidera aggiungere {autorizzazione} solo a modelli specifici, selezionare le caselle sottostanti per i modelli a cui si desidera aggiungerli e lasciare deselezionata l'autorizzazione {permesso}."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "L'autorizzazione {permesso} \u00e8 selezionata, rendendola applicabile a tutti i modelli che sono modificabili per il ruolo. Per revocare l'autorizzazione di {autorizzazione} da modelli specifici, selezionare le caselle sottostanti. Per aggiungere questa autorizzazione solo a modelli specifici, deseleziona prima l'autorizzazione di {autorizzazione}."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Nota che il ruolo deve anche avere l'autorizzazione di modifica della pagina per qualsiasi template selezionato sopra."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "La maggior parte delle autorizzazioni che possono essere assegnate dalla template richiesta anche se l'utente abbia il permesso di modifica della pagina per la template. Se una template che ti serve non \u00e8 elencata, devi prima attivare il controllo degli accessi (vedi la scheda \"Accesso\" quando modifichi una template)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "A differenza della maggior parte delle altre autorizzazioni, l'autorizzazione di modifica della pagina a un modello non \u00e8 un prerequisito per questa autorizzazione."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Nota: il ruolo di superuser ha sempre tutte le autorizzazioni, quindi il campo delle autorizzazioni non viene mostrato."
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permessi"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Per le descrizioni dettagliate di queste autorizzazioni, consultare il riferimento delle autorizzazioni."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nome|descrizione|"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Aggiungi bambini alle pagine usando il modello"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Crea pagine usando il modello"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Questa autorizzazione pu\u00f2 essere assegnata solo dal modello."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(Obbligatorio)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Questa autorizzazione \u00e8 richiesta per tutti i ruoli."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "si applica a tutti i modelli modificabili"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s aggiunto dal modello %2$s, clicca per modificare"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s revocato dal modello %2$s, clicca per modificare"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Selezionando questa casella si aggiunge l'autorizzazione per tutte le templates modificabili, ma questa autorizzazione viene gi\u00e0 applicata separatamente da uno o pi\u00f9 templates. Per mantenere le cose in ordine, ti suggeriamo di rimuovere il permesso da quei modelli prima di abilitarlo per tutti. Sei sicuro di volerlo abilitare adesso?"
+        },
+        "00abcc0a482965cd87aa000c253bf713": {
+            "text": "(ereditato dal ruolo di ospite)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Aggiungi a: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Revoca da: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Fai clic per aprire\/chiudere le impostazioni di autorizzazione dalla template"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Autorizzazione \"%1$s\" per la template \"%2$s\" non consentita (richiede l'autorizzazione \"%3$s\")"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Ruoli"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Gestisci i ruoli degli utenti e quali autorizzazioni sono associate"
+        }
+    }
+}
