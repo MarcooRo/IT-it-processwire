@@ -10,19 +10,21 @@ Inside you will find the translated files for:<br>
   <li>wire--core--*</li>
   <li>Wire--templates</li>
     <ul><li>Wire--templates--admin--*</ul></li>
-  wire--modules
-    wire--modules--inputfield--*
-    wire--modules--page--*
-    wire--modules--pagepaths--*
-    wire--modules--pagerender--*
-    wire--modules--process--*
-    wire--modules--filecompilertags--*
-    wire--modules--jquery--*
-    wire--modules--languagesupport--*
-    wire--modules--markup--*
-    wire--modules--textformatter--*
-    wire--modules--session--*
-    wire--modules--fieldtype--fieldtypecomments--*
+  <li>wire--modules/li>
+    <ul>
+      <li>wire--modules--inputfield--*</li>
+      <li>wire--modules--page--*</li>
+      <li>wire--modules--pagepaths--*</li>
+      <li>wire--modules--pagerender--*</li>
+      <li>wire--modules--process--*</li>
+      <li>wire--modules--filecompilertags--*</li>
+      <li>wire--modules--jquery--*</li>
+      <li>wire--modules--languagesupport--*</li>
+      <li>wire--modules--markup--*</li>
+      <li>wire--modules--textformatter--*</li>
+      <li>wire--modules--session--*</li>
+      <li>wire--modules--fieldtype--fieldtypecomments--*</li>
+      </ul>
 </ul>
 
 
