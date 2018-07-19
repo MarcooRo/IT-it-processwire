@@ -5,10 +5,10 @@ by: marco@studio-igs.com
 This it's just the Italian vertion of ProcessWire 3.0+
 I have also translated some moduels that usually people use.
 
-Inside you will find the translated files for:
-  wire--core--*
-  Wire--templates
-    Wire--templates--admin--*
+Inside you will find the translated files for:<br>
+  wire--core--*<br>
+  Wire--templates<br>
+    Wire--templates--admin--*<br>
   wire--modules
     wire--modules--inputfield--*
     wire--modules--page--*
