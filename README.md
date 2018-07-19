@@ -6,9 +6,10 @@ This it's just the Italian vertion of ProcessWire 3.0+
 I have also translated some moduels that usually people use.
 
 Inside you will find the translated files for:<br>
-  wire--core--*<br>
-  Wire--templates<br>
-    Wire--templates--admin--*<br>
+<ul>
+  <li>wire--core--*</li>
+  <li>Wire--templates</li>
+    <ul><li>Wire--templates--admin--*</ul></li>
   wire--modules
     wire--modules--inputfield--*
     wire--modules--page--*
@@ -22,7 +23,7 @@ Inside you will find the translated files for:<br>
     wire--modules--textformatter--*
     wire--modules--session--*
     wire--modules--fieldtype--fieldtypecomments--*
-
+</ul>
 
 
 Big thanks to all memper of the cominunity!
