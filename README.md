@@ -18,6 +18,7 @@ Inside you will find the translated files for:<br>
       <li>wire--modules--pagepaths--*</li>
       <li>wire--modules--pagerender--*</li>
       <li>wire--modules--process--*</li>
+      <li>wire--modules--system--systemnotifications--*</li>
       <li>wire--modules--filecompilertags--*</li>
       <li>wire--modules--jquery--*</li>
       <li>wire--modules--languagesupport--*</li>
@@ -25,6 +26,7 @@ Inside you will find the translated files for:<br>
       <li>wire--modules--textformatter--*</li>
       <li>wire--modules--session--*</li>
       <li>wire--modules--fieldtype--fieldtypecomments--*</li>
+      <li>wire--modules--image--*</li>
       </ul>
 </ul>
 
