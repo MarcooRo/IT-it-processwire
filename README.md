@@ -11,22 +11,22 @@ Inside you will find the translated files for:<br>
   <li>wire--core--*</li>
   <li>Wire--templates</li>
     <ul><li>Wire--templates--admin--*</ul></li>
-  <li>wire--modules/li>
+  <li>wire--modules</li>
     <ul>
-      <li>wire--modules--inputfield--*</li>
-      <li>wire--modules--page--*</li>
-      <li>wire--modules--pagepaths--*</li>
-      <li>wire--modules--pagerender--*</li>
-      <li>wire--modules--process--*</li>
-      <li>wire--modules--system--systemnotifications--*</li>
-      <li>wire--modules--filecompilertags--*</li>
-      <li>wire--modules--jquery--*</li>
-      <li>wire--modules--languagesupport--*</li>
-      <li>wire--modules--markup--*</li>
-      <li>wire--modules--textformatter--*</li>
-      <li>wire--modules--session--*</li>
-      <li>wire--modules--fieldtype--fieldtypecomments--*</li>
-      <li>wire--modules--image--*</li>
+      <li>wire--modules--inputfield</li>
+      <li>wire--modules--page</li>
+      <li>wire--modules--pagepaths</li>
+      <li>wire--modules--pagerender</li>
+      <li>wire--modules--process</li>
+      <li>wire--modules--system--systemnotifications</li>
+      <li>wire--modules--filecompilertags</li>
+      <li>wire--modules--jquery</li>
+      <li>wire--modules--languagesupport</li>
+      <li>wire--modules--markup</li>
+      <li>wire--modules--textformatter</li>
+      <li>wire--modules--session</li>
+      <li>wire--modules--fieldtype--fieldtypecomments</li>
+      <li>wire--modules--image</li>
       </ul>
 </ul>
 
