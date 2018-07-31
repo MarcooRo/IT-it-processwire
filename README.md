@@ -32,4 +32,4 @@ Inside you will find the translated files for:<br>
 
 
 Big thanks to all memper of the cominunity!
-Enjoy codeing!
+Enjoy!
