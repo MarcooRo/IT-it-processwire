@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Dove vuoi aggiungere il nuovo %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Seleziona una pagina genitore %s di seguito:"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Non ci sono al momento template con relazioni genitore\/figlio definite per mostrare scorciatoie \"Aggiungi Nuovo\" qui. Per configurarlo, modifica qualsiasi template (Setup>Templates) e fai clic sulla scheda \"Famiglia\"."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Gi\u00e0 preso"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Aggiungi nuovo"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Il nome inserito \u00e8 gi\u00e0 in uso. Se non lo modifichi, il nome verr\u00e0 reso univoco automaticamente dopo il salvataggio."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nessun templates consentito per l'aggiunta di nuove pagine qui."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "templates \"%s\" non \u00e8 permesso qui."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Genitore"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salva"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Salva + Pubblica"
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Salva + Pubblica + Aggiungi un altro"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Pagina temporanea non utilizzata"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Pagina creata %1$s utilizzando il template: %2$s"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Campo obbligatorio mancante: nome"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "La selezione del template \u00e8 richiesta"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Attenzione, il nome che hai selezionato \"%1$s\" era gi\u00e0 in uso ed \u00e8 stato modificato in \"%2$s\"."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Le pagine selezionate in precedenza rappresentano i segnalibri per le pagine padre in cui si desidera aggiungere i bambini. Si noti che se un utente non dispone dell'autorizzazione per aggiungere una pagina a una determinata pagina padre (a causa del controllo di accesso o delle impostazioni della famiglia di template), il segnalibro non verr\u00e0 visualizzato."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Ordine di ordinamento della scorciatoia del template"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Per cambiare l'ordine delle scorciatoie del template di pagina \"Aggiungi nuovo\", trascina e rilascia le opzioni nell'ordine in cui le desideri."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Per aggiungere o rimuovere templates da queste scorciatoie, vedere la scheda Famiglia dell'editor di Template."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Disabilita la pubblicazione automatica"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Per impostazione predefinita, le pagine con nient'altro che i campi globali (pi\u00f9 comunemente \"titolo\") verranno pubblicate automaticamente quando aggiunte, ignorando il solito stato non pubblicato. Di solito questo \u00e8 un risparmio di tempo desiderabile. Ma puoi annullare questo comportamento selezionando la casella qui sotto."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Aggiungi Pagina"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Aggiungi nuova pagina"
+        }
+    }
+}

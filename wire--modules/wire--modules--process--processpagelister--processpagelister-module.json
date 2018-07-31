@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Creato"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Pubblicato"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Creato Da"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stato"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Genitore"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Num di Figlio"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Nascosto"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Non pubblicato"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Bloccato"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Spazzatura"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Il segnalibro o il segnalibro non riconosciuti non sono pi\u00f9 attivi"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtri"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Aggiungi Filtro"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Colonna di Default"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Seleziona e ordina le colonne che verranno visualizzate nella tabella di elenco delle pagine."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "L'utente pu\u00f2 facoltativamente modificare quali colonne sono mostrate, quindi queste serviranno solo come valori predefiniti."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Le modifiche apportate qui dovrebbero essere riflesse immediatamente nei risultati seguenti."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Quali colonne mostrare nei risultati"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Quali pagine mostrare"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "La modalit\u00e0 specificata \"include=\" non \u00e8 consentita qui."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Non tutti i templates specificati sono modificabili. \u00c8 consentito solo \"include=hidden\""
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Nessun modello specificato in modo che 'include=hidden' sia la modalit\u00e0 di inclusione massima consentita"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d a %2$d di %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Nessun risultato"
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "selezionato"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Tutte le impostazioni sono state ripristinate."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Aggiungi nuovo"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Aggiorna i risultati"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Reimposta filtri e colonne predefiniti"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Segnalibri"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Colonne"
+        }
+    }
+}

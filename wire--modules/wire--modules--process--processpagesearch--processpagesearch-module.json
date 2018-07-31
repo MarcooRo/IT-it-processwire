@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Edit"
+        },
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nessuna ricerca specificata"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Cerca nel\/i campo\/i:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Tipo di ricerca:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Cercare:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Limita al template:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Ordina per:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Ordinamento inverso?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Campi di visualizzazione:"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Opzioni di ricerca"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avanzato"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Scelta rapida"
+        },
+        "d60c090c3c99aaae5f57da3eb85fe008": {
+            "text": "Campi predefiniti da cercare"
+        },
+        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
+            "text": "Immettere i nomi per uno o pi\u00f9 campi basati su testo che si desidera cercare, separandoli ciascuno per uno spazio."
+        },
+        "6278e5dbbd21048091f612f55185257e": {
+            "text": "Campo(i) da cercare nella modalit\u00e0 admin search (ajax)"
+        },
+        "cc10d38a176ad7cde1228d2e22f1122b": {
+            "text": "Ti consigliamo di limitare questo a 1 o 2 campi al massimo poich\u00e9 i risultati popolano un campo di completamento automatico in tempo reale. Normalmente si dovrebbe cercare il titolo."
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Nome(i) di campo predefinito da visualizzare nei risultati di ricerca"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Se si specifica pi\u00f9 di un campo, separare ciascuno con uno spazio."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "Operatore di ricerca predefinito"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Uguale"
+        },
+        "3255c386f4276b5c66f12d216ec71906": {
+            "text": "Non uguale"
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "Maggiore di"
+        },
+        "798fe01fcb2754a295b6937ed885a69a": {
+            "text": "Maggiore o uguale a"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Minore di"
+        },
+        "28d1141142e2cbb29e657b69a044ddf4": {
+            "text": "Minore o uguale a"
+        },
+        "45fc43a01c15bc63159695441dfacd63": {
+            "text": "Contiene una frase o una parola parziale"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "Contiene frase \/ parola usando LIKE"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Contiene tutte le parole"
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "Inizia con"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "Finisce con"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Cerca"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Cerca"
+        },
+        "c488b358fae501da3848f9faeb83dd35": {
+            "text": "Campi"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Pagine"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Cerca"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Trovato %1$d pagina utilizzando il selettore: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Trovato %1$d pagine utilizzando il selettore: %2$s"
+        }
+    }
+}

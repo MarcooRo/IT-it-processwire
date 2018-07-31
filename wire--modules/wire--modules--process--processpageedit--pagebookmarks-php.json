@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Segnalibri"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Edita Segnalibri"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "Tutti"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Attualmente non sono stati definiti i segnalibri"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "Tutti"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Segnalibri per: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s Segnalibri Editor"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Nota che solo i super-utenti possono vedere questo editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Aggiungi Segnalibri"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Fai clic sull'azione \"aggiungi segnalibro\" qui sotto per selezionare le pagine da aggiungere come segnalibri. Se desideri che i segnalibri appaiano solo per un ruolo utente specifico, seleziona prima il ruolo in alto."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Segnalibri salvato"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Permetti di usare i segnalibri?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "I segnalibri ti consentono di creare collegamenti a pagine da questo modulo, configurabili in base al ruolo dell'utente. Utile per grandi applicazioni."
+        }
+    }
+}

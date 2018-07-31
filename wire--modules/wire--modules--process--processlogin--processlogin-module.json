@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Ti sei autenticato."
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Modifica Profilo"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continua"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "Login con successo"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Login fallito"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Se stato loggato fuori"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Avviso di sicurezza: %s esiste e dovrebbe essere eliminato il prima possibile."
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Avviso, il tuo \/site\/config.php specifica i permessi dei file che sono troppo lenti per molti ambienti:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Leggi \"Protezione delle autorizzazioni dei file\" per maggiori dettagli"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Per sopprimere questo avviso, imposta $config->chmodWarn = false; nel tuo file \/site\/config.php."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Avviso: le impostazioni locali del server non sono definite e potrebbero causare problemi."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "Si prega di tradurre l'impostazione locale \"C\" per ogni lingua nella locale corretta in %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Ad esempio, le impostazioni internazionali per l'inglese americano potrebbero essere: %s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "Si prega di aggiungerlo al file \/site\/config.php (regolare \"%s\" secondo necessit\u00e0):"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Hai dimenticato la password?"
+        }
+    }
+}

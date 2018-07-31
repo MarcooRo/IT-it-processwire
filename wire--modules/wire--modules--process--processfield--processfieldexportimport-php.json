@@ -1,0 +1,147 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NOME"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "ETICHETTA"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "TIPO"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "New"
+        },
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Seleziona i campi che vuoi esportare"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Click per selezionare pi\u00f9 in sequenza. Ctrl+clic (o Cmd+clic) per selezionare pi\u00f9 singoli. Ctrl+A (o Cmd+A) per selezionare tutto."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Esporta Dati"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copia e incolla questi dati nella casella \"Importa\" di un'altra installazione."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Fare clic in un punto qualsiasi della casella per selezionare tutti i dati di esportazione. Una volta selezionato, copiare i dati con CTRL-C o CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Incolla i dati da un'esportazione."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Copia i dati di esportazione da un'altra installazione e quindi incolla nella casella in alto con CTRL-V o CMD-V."
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Cambiamenti"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Propriet\u00e0"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Vecchio valore"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nuovo Valore"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Ti consigliamo di modificare manualmente il tipo di questo campo su \"%s\", quindi di tornare qui per applicare ulteriori modifiche."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nessuna modifica in sospeso."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Modifica questo campo?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Crea questo campo?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "fare clic su S\u00ec per mostrare le modifiche"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "A volte possono essere necessari due commit prima che vengano applicate tutte le modifiche. Si prega di rivedere eventuali modifiche in sospeso di seguito e impegnarle secondo necessit\u00e0."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Si prega di rivedere le modifiche di seguito e impegnarsi quando \u00e8 pronto. Se sono presenti modifiche che non si desidera applicare, deselezionare le caselle laddove appropriato."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Applica modifiche"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Le tue modifiche sono state applicate!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Non sono state trovate modifiche"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Salvato:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Campo aggiunto"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Campo modificato"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Esporta"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "Ok"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importa"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d errore"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d errori"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Trovato %d propriet\u00e0 da applicare."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Trovato %d propriet\u00e0 da applicare."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Errore trovato nel campo %d"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Errori trovati nei campi %d"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "Trovato %d nuovo campo da aggiungere"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "Trovati %d nuovi campi da aggiungere"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "Trovato %d campo esistente da aggiornare"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "Trovati %d campi esistenti da aggiornare"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "Aggiungi %d campo"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "Aggiungi %d campi"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Campo %d modificato"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Campi %d modificati"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "Campo %d saltato"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "Campi %d saltati"
+        }
+    }
+}

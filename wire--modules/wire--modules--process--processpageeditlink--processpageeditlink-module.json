@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Scegli la pagina"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Inserisci un URL, seleziona una pagina o seleziona un file da collegare:"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Inserisci un URL, indirizzo email, ancora o inserisci una o pi\u00f9 parole per trovare una pagina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Seleziona Ancora"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Ancore trovate nel testo che stai modificando."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Seleziona Pagina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Seleziona Pagina Figlio"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "\u00c8 lo stesso di \"Seleziona pagina\" qui sopra, ma potrebbe essere pi\u00f9 veloce da utilizzare se si collega ai figli della pagina corrente."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attributi"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titolo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Testo aggiuntivo per descrivere il collegamento."
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Dove questo link si aprir\u00e0."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Rapporto di collegamento al documento."
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Classi aggiuntive che possono influenzare l'aspetto o il comportamento del collegamento."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Puoi personalizzare gli attributi disponibili mostrati sopra nelle impostazioni del modulo %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nessuna"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "Apri in una nuova finestra"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "dire ai motori di ricerca di non seguire"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Seleziona il file"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostra files nella pagina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Seleziona il file da questa pagina a cui vuoi collegarti."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Per selezionare un file da un'altra pagina, fai clic su \"Seleziona pagina\" in alto e seleziona la pagina da cui desideri selezionare un file."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Opzioni di attributo"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Immettere un valore di attributo per riga. L'utente sar\u00e0 in grado di selezionare questi come opzioni quando si aggiungono collegamenti. Per rendere un'opzione selezionata per impostazione predefinita (per i nuovi collegamenti), precederla con un segno pi\u00f9 \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Attributi di collegamento esterni"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Specificare l'attributo selezionato predefinito che verr\u00e0 popolato automaticamente quando viene rilevato un collegamento esterno."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Se utilizzato, il valore deve essere quello che hai predefinito sopra."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Esempio: la specificazione di nofollow renderebbe i link esterni di default non seguiti dai motori di ricerca."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Esempio: specificare _blank renderebbe i collegamenti esterni predefiniti per l'apertura in una nuova finestra."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Tipo di URL per i collegamenti alle pagine"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URL relativi solo nelle stesse filiali"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "URL relativi sempre"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "* Attualmente sperimentale"
+        }
+    }
+}

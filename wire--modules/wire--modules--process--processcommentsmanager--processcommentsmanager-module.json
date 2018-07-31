@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Edita"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Approvato"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "In attesa"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Cancella"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Tutto"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Non ci sono campi commenti installati"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Si prega di selezionare un campo commenti"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Nessun campo dei commenti specificato nell'URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Campo non riconosciuto"
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Rispondi a"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "rimuovi filtro"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Commento #%d eliminato"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Commento #%d aggioranto"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stato"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Data"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citt\u00e0"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Stelle"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Voto"
+        },
+        "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
+            "text": "In risposta a %s"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Setta lo stato:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "per apgina"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Check\/uncheck tutto"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Non ci sono elementi selezionati"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Azioni (elementi selezionati)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Reimposta: Voto positivo"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Reimposta:  Voto negativo"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Data (nuovo-vecchio)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Data (vecchio-nuovo)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Stelle (alto-basso)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Stelle (basso-alto)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Voto positivo"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Voto negativo"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Ordina:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Hai modifiche non salvate!"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "di %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "non mostrare"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commenti"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "Gestisci i commenti nel tuo sito al di fuori dell'editor di pagine."
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d risposta"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d risposte"
+        }
+    }
+}

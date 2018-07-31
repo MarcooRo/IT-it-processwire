@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Utenti massimi da mostrare nel menu a discesa AJAX"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Quando il numero di utenti nel sistema supera questa quantit\u00e0, la navigazione a discesa mostrer\u00e0 invece i ruoli con i conteggi degli utenti piuttosto che gli utenti."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "Specificare un valore compreso tra 1 e 100 (valore predefinito = 25)"
+        }
+    }
+}

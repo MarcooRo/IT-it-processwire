@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Utente Login Nome"
+        },
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profilo:"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Per modificare questo campo, \u00e8 necessario inserire anche la password corrente nel campo \"Imposta password\"."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Il nome utente pu\u00f2 contenere lettere minuscole a-z, 0-9, trattini o caratteri di sottolineatura."
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Profilo non salvato"
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "La password richiesta \u00e8 stata fornita ma non \u00e8 corretta"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "La password richiesta non \u00e8 stata fornita"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Indirizzo email \"%s\" gi\u00e0 in uso da un altro utente."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Profilo salvato"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Non autorizzato"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Sanitized a \"%s\", che differisce da quello che hai inserito"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Troppo corto"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Troppo lungo"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Gi\u00e0 in uso"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Non pu\u00f2 iniziare o terminare con caratteri non alfa, non numerici"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Non pu\u00f2 contenere trattini, underscore o punti adiacenti"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Quali campi pu\u00f2 modificare un utente nel proprio profilo?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etichetta"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tipo"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Profilo Utente"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Consente all'utente di modificare la propria password, l'indirizzo e-mail e altre impostazioni definite dall'utente."
+        }
+    }
+}
