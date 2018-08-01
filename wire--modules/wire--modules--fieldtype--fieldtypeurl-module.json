@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Si"
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Il formattatore di testo \"HTML Entity Encoder\" \u00e8 raccomandato per i campi URL."
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Se questo URL verr\u00e0 utilizzato per qualsiasi output, si consiglia vivamente di selezionare \"HTML Entity Encoder\" per \"Text Formatters\" nella scheda Dettagli."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Permetti URL relativi\/locali senza \"http:\/\/\" all'inizio?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "Gli URL locali\/relativi sono quelli senza schema e dominio."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Permetti nomi di dominio internazionalizzati (IDN)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Se abilitato, i nomi di dominio non ASCII sono consentiti."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Consenti caratteri di virgolette singole \/ doppie negli URL?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Se abilitato, dovresti essere assolutamente certo che tali URL siano codificati come entit\u00e0 quando usati nel markup"
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Sospendi il percorso principale del sito verso URL locali\/relativi?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Questa opzione antepone automaticamente il percorso di root del sito a qualsiasi URL che inizia con una barra, come \/some\/path\/. Ci\u00f2 \u00e8 utile se il tuo sito \u00e8 in esecuzione da una sottodirectory perch\u00e9 non dovrai includere quella sottodirectory negli URL che inserisci in questo campo. Se successivamente trasferisci il tuo sito alla radice di un dominio (o un'altra sottodirectory) non dovrai preoccuparti di URL danneggiati. Con questa opzione abilitata, immettere sempre gli URL come se il sito fosse in esecuzione dalla radice di un dominio, indipendentemente dal fatto che sia eseguito da una sottodirectory o meno. Naturalmente questo \u00e8 applicabile solo se hai selezionato \"S\u00ec\" per consentire gli URL locali\/relativi nel campo in alto. Gli sviluppatori potrebbero anche voler notare che questa opzione si applica solo quando il metodo di output di una pagina \u00e8 attivo."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Garantisce che gli URL non vengano interrotti quando si sposta un sito da una sottodirectory a root (l'esempio pi\u00f9 comune)."
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Campo che memorizza un URL"
+        }
+    }
+}

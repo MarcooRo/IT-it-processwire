@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Sono vuoti e 0 equivalenti?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Ci\u00f2 influenza il modo in cui ProcessWire abbina le pagine durante le operazioni di ricerca del database."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Se 0 e vuoto sono equivalenti (l'opzione S\u00ec), una ricerca per campo=0 o campo=\"\" produrr\u00e0 gli stessi risultati."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Se non sono equivalenti (opzione No), una ricerca per **field=0** corrisponder\u00e0 solo ai campi contenenti il valore 0 e **field=\"\" ** corrisponder\u00e0 solo ai campi senza valore."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Come altro esempio, con l'opzione S\u00ec **il campo<1** corrisponderebbe al valore 0 e nessun valore e con l'opzione No corrisponderebbe solo a 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "S\u00ec - Vuoto e 0 sono equivalenti"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "No - Vuoto e 0 hanno significati diversi"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valore di default"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Questo valore \u00e8 assegnato come predefinito per questo campo sulle pagine appena create. Non ha effetto sulle pagine esistenti."
+        }
+    }
+}

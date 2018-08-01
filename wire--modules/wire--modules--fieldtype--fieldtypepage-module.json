@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Contatore"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Pi\u00f9 pagine (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Pagina singola (Pagina) o booleana falsa quando nessuna selezionata"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Pagina singola (Pagina) o pagina vuota (NullPage) quando nessuna selezionata"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Tipo di valore del campo pagina"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Se il tuo campo conterr\u00e0 pi\u00f9 pagine, dovresti selezionare la prima opzione (PageArray). Se il tuo campo deve contenere solo una singola pagina, seleziona una delle opzioni di Pagina singola (se non sei sicuro di quale, seleziona l'ultima opzione)."
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Esempi di utilizzo dell'API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Come sopra con sintassi alternativa"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Maggiori informazioni sul metodo %s."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Consenti pagine non pubblicate?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Se selezionato, le pagine non pubblicate sono consentite nel valore del campo. Le pagine non pubblicate non appariranno sul front-end, tranne quelle con accesso di modifica."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Impossibile trovare la pagina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Impossibile trovare il template"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Trova e pulisci i riferimenti alle pagine orfani"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Questo pulisce un problema nelle versioni precedenti di ProcessWire che potrebbero lasciare riferimenti di pagina orfani per le pagine eliminate. Se stai ottenendo risultati inaccurati dalle operazioni di ricerca della pagina (specialmente con selettori che usano pageref.count), allora potresti voler eseguire questo."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Avvertenza: per sicurezza, \u00e8 necessario eseguire il backup del database prima di eseguirlo."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Trovare e pulire..."
+        }
+    }
+}

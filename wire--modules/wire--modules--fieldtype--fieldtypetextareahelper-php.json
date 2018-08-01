@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo di inputfield"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Il tipo di campo che verr\u00e0 utilizzato per raccogliere l'input (Textarea \u00e8 l'impostazione predefinita). Notare che se si modifica questo e si invia, le opzioni di configurazione disponibili nella sezione \"input\" potrebbero cambiare."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Tipo di contenuto"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "L'opzione [u]Markup\/HTML[\/u] \u00e8 consigliata per i campi che utilizzano editor di testo RTF (come CKEditor) e quelli che contengono HTML. Fornisce filtri di runtime aggiuntivi per il controllo della qualit\u00e0."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Se si seleziona l'opzione [u]Unknown\/Text[\/u], si consiglia vivamente [per sicurezza] di selezionare anche \"HTML Entity Encoder\" nel campo [u]Text Formatters[\/u] sopra."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Per ulteriori informazioni sulle opzioni sopra, vedere la descrizione delle opzioni relative al tipo di contenuto."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Opzioni HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Le seguenti opzioni forniscono ulteriore garanzia di qualit\u00e0 per HTML in fase di runtime."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "Nota: queste opzioni sono attualmente sperimentali. Si prega di guardare per problemi e segnalare eventuali errori."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Le opzioni sopra riportate riportano errori in Impostazione > Registri > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Link astrazione:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Aggiorna automaticamente gli attributi href quando i link interni cambiano"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Aggiorna attributi immagine alt:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Sostituisci gli attributi alt vuoti con la descrizione dell'immagine"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Correggi le immagini rotte:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Rimuovi i tag img che risulterebbero in un 404 o ricreare le immagini quando possibile"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Controllo dell'accesso alle immagini:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Rimuovi le immagini dal markup a cui l'utente non ha accesso alla vista"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Applica le opzioni HTML ora"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Per applicare le opzioni di cui sopra a tutte le pagine esistenti in questo momento, selezionare questa casella. Questo si concentra principalmente sull'opzione di astrazione del collegamento."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Attenzione, questo esegue un aggiornamento su potenzialmente centinaia di pagine (massimo 300 per esecuzione) e aggiorna i tempi di modifica della pagina. Se il tuo sito ha molte pagine, potresti doverlo eseguire pi\u00f9 volte."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "Come ulteriore precauzione si consiglia di eseguire il backup del database prima di eseguirlo."
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Sembra che abbiamo finito! Le opzioni HTML sono ora completamente applicate."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Gli aggiornamenti futuri verranno applicati automaticamente quando ciascuna pagina viene salvata."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Ci sono ancora pi\u00f9 pagine da applicare. Seleziona nuovamente la casella per applicare le pagine rimanenti."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Hai bisogno di applicare pi\u00f9 pagine alla volta? Puoi aggiungere un'impostazione %s al tuo file \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(vedi %s log)"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "aggiornato %1$d di cui %2$d pagine di opzioni HTML"
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Markup\/HTML riassunto della garanzia di qualit\u00e0:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Altre opzioni HTML sono applicate in fase di runtime."
+        }
+    }
+}

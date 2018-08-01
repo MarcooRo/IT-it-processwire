@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Valore del selettore iniziale"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Immettere una stringa di selezione iniziale che verr\u00e0 utilizzata come punto di partenza forzato per tutti i selettori generati da questo campo. Qualsiasi pagina che corrisponda al selettore dell'utente verr\u00e0 associata al selettore inserito qui."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Esempio: template=prodotto"
+        }
+    }
+}

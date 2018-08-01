@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Preselezione configurata non popolata poich\u00e9 il valore non \u00e8 sempre richiesto. Si prega di correggere questa configurazione di campo."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "L'importazione di opzioni non \u00e8 ancora stata implementata. Sebbene possano essere facilmente importati da un sito all'altro, copia\/incolla direttamente dalla schermata di modifica del campo."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Seleziona Opzioni"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Campo che memorizza le opzioni di selezione singola e multipla."
+        }
+    }
+}

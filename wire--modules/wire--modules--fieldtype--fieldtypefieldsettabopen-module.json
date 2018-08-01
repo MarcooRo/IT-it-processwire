@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Apri in finestra modale?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Seleziona la casella per rendere questa scheda aperta nella sua finestra modale. Questo pu\u00f2 migliorare le prestazioni con forms grandi."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Per risolvere una necessit\u00e0 simile, potresti invece considerare l'opzione AJAX, disponibile su: Input (scheda) > Visibilit\u00e0 > Presentazione."
+        }
+    }
+}

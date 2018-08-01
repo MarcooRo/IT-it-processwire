@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "Mantiene una raccolta di campi che vengono ripetuti per un numero qualsiasi di volte."
+        }
+    }
+}
