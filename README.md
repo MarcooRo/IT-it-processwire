@@ -15,7 +15,6 @@ Inside you will find the translated files for:<br>
     <ul>
       <li>wire--modules--fieldtype</li>
       <li>wire--modules--filecompilertags</li>
-      <li>wire--modules--filecompilertags</li>
       <li>wire--modules--image</li>
       <li>wire--modules--inputfield</li>
       <li>wire--modules--jquery</li>
